@@ -1,0 +1,5 @@
+//- Reusable comment component: +post(author, date, text)
+mixin post(author, date, text)
+  .post
+    | #[span.author= author] — #[span.date= date] #[span.reply REPLY]
+    p= text

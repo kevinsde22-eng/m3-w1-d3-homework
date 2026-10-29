@@ -1,0 +1,15 @@
+{
+  "name": "wk1-day3-homework",
+  "version": "1.0.0",
+  "description": "Food blog page converted to Express + Pug using include and components",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Wuhao Wang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0",
+    "pug": "^3.0.4"
+  }
+}
